@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://nj02all01.baidupcs.com/file/1f197a0eda9d4558c59c375bf0512b7d?bkt=p3-0000ce8d101af9d6f2b399f6c4f3c54022d2&fid=1126051887-250528-67123135629629&time=1474547708&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-tM78guVfYxKxldXo80pmU7G7V1Y%3D&to=nj2hb&fm=Yan,B,T,t&sta_dx=5255119&sta_cs=1&sta_ft=ipa&sta_ct=0&sta_mt=0&fm2=Yangquan,B,T,t&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=0000ce8d101af9d6f2b399f6c4f3c54022d2&sl=83492943&expires=8h&rt=sh&r=197556726&mlogid=6165991607933049907&vuk=1126051887&vbdid=1382741519&fin=lamp.ipa&fn=lamp.ipa&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=6165991607933049907&dp-callid=0.1.1&csl=293&csign=TAr8wYx44PkAEwg25mfojo59s%2Bs%3D</string>
+					<string>http://116.231.5.70/lamp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://nj02all01.baidupcs.com/file/865dc6766d21a4fc56ba2bdd8f1b308f?bkt=p3-1400865dc6766d21a4fc56ba2bdd8f1b308f11267e5d000000004a2d&fid=1126051887-250528-550214637785623&time=1474547825&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-ssXOaKXZJsia7Z33FKsJdjXrCPs%3D&to=nj2hb&fm=Yan,B,T,t&sta_dx=18989&sta_cs=1&sta_ft=png&sta_ct=0&sta_mt=0&fm2=Yangquan,B,T,t&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=1400865dc6766d21a4fc56ba2bdd8f1b308f11267e5d000000004a2d&sl=78839886&expires=8h&rt=sh&r=187446015&mlogid=6166022808360896510&vuk=1126051887&vbdid=1382741519&fin=switch_landopennormal.png&fn=switch_landopennormal.png&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=6166022808360896510&dp-callid=0.1.1&csl=108&csign=Pzc%2FsbH902ZIH2AuEUbWilHSpvg%3D</string>
+					<string>http://116.231.5.70/lamp.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://nj02all01.baidupcs.com/file/865dc6766d21a4fc56ba2bdd8f1b308f?bkt=p3-1400865dc6766d21a4fc56ba2bdd8f1b308f11267e5d000000004a2d&fid=1126051887-250528-550214637785623&time=1474547825&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-ssXOaKXZJsia7Z33FKsJdjXrCPs%3D&to=nj2hb&fm=Yan,B,T,t&sta_dx=18989&sta_cs=1&sta_ft=png&sta_ct=0&sta_mt=0&fm2=Yangquan,B,T,t&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=1400865dc6766d21a4fc56ba2bdd8f1b308f11267e5d000000004a2d&sl=78839886&expires=8h&rt=sh&r=187446015&mlogid=6166022808360896510&vuk=1126051887&vbdid=1382741519&fin=switch_landopennormal.png&fn=switch_landopennormal.png&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=6166022808360896510&dp-callid=0.1.1&csl=108&csign=Pzc%2FsbH902ZIH2AuEUbWilHSpvg%3D</string>
+					<string>http://116.231.5.70/lamp.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
