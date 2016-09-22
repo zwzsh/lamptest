@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://116.231.5.70/lamp.ipa</string>
+					<string>http://116.231.5.70:808/lamp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://116.231.5.70/lamp.png</string>
+					<string>http://116.231.5.70:808/lamp.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://116.231.5.70/lamp.png</string>
+					<string>http://116.231.5.70:808/lamp.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
